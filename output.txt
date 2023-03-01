@@ -1,0 +1,2 @@
+today is the last day for training and training is useful
+{the=1, last=1, and=1, today=1, for=1, is=2, training=2, day=1, useful=1}
